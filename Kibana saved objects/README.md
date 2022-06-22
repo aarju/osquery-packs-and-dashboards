@@ -1,0 +1,1 @@
+The saved objects can be imported directly into Kibana using the `Management` interface within Kibana. The advantage of using Saved Objects instead of the OSQuery Pack format is that you can save and import the `ecs_mapping` values that will map osquery fields to ecs.
